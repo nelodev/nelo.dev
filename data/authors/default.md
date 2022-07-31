@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Nelo Puchades
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: Lifull Connect
+email: correo@nelo.dev
+twitter: https://twitter.com/nelodev
+linkedin: https://www.linkedin.com/in/nelodev
+github: https://github.com/nelodev
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
